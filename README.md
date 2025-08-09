@@ -20,3 +20,7 @@ This project shows how to build an **event-driven microservices architecture** u
 - Configure exchanges, queues, and bindings
 - Build microservices that use asynchronous messaging
 - Understand routing patterns in RabbitMQ
+
+## Architecture Diagram
+
+<img width="1289" height="644" alt="image" src="https://github.com/user-attachments/assets/2e8e9b4f-8aa5-441b-9301-cbffc7ab64a7" />
